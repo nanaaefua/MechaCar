@@ -27,7 +27,16 @@ On this dataset, which is predicting miles per gallons, the result shows that th
 
 * Deliverable 2: Summary Statistics on Suspension Coils
 
+![image](https://user-images.githubusercontent.com/90292072/182337933-a60a608d-29d9-4f34-9b10-ce12e4f77437.png)
+
+
 ![image](https://user-images.githubusercontent.com/90292072/182337369-02416043-ed42-4d0c-b4ad-c809c9d0784e.png)
+
+![image](https://user-images.githubusercontent.com/90292072/182337988-33bd611d-e9ca-4671-92fa-4ea7f918b453.png)
+
+![image](https://user-images.githubusercontent.com/90292072/182338033-466e627f-6e5f-4f72-b595-5c3a3ce87f9d.png)
+
+![image](https://user-images.githubusercontent.com/90292072/182338382-1ef36735-6696-4702-82ad-8ea477af2fc7.png)
 
 
 
