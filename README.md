@@ -46,6 +46,7 @@ On this dataset, which is predicting miles per gallons, the result shows that th
 
 * Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
+Contact
 
 Email: equansah1@gmail.com
 
