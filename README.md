@@ -6,10 +6,9 @@
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 
-This new assignment consists of three technical analysis deliverables and a proposal for further statistical study. You’ll submit the following:
+This consists of three technical analysis deliverables and a proposal for further statistical study.The following are:
 
-
-* Deliverable 1: Linear Regression to Predict MPG
+* Linear Regression to Predict MPG
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -24,11 +23,9 @@ On this dataset, which is predicting miles per gallons, the result shows that th
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
-
-* Deliverable 2: Summary Statistics on Suspension Coils
+* Summary Statistics on Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/90292072/182337933-a60a608d-29d9-4f34-9b10-ce12e4f77437.png)
-
 
 ![image](https://user-images.githubusercontent.com/90292072/182337369-02416043-ed42-4d0c-b4ad-c809c9d0784e.png)
 
@@ -40,11 +37,11 @@ On this dataset, which is predicting miles per gallons, the result shows that th
 
 
 
-* Deliverable 3: T-Test on Suspension Coils
+* T-Test on Suspension Coils and design a Study Comparing the MechaCar to the Competition
 
 
 
-* Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
 
 Contact
 
